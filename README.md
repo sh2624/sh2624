@@ -4,9 +4,10 @@
 </p>
 
 <!-- 소개글 -->
-<p align="center">
-  <b>🤔 프론트엔드가 뭐예요? (진짜모름)</b>
-</p>
+<h3>🤔 프론트엔드가 뭐예요? (진짜모름)</h3>
+<p>인천대학교 영어영문학과 3학년 임상현이라고 합니다. 멋쟁이사자처럼 13기 활동을 시작으로 아아아주 천천히 성장 중입니다. 
+  <br />
+  올해 초까지만 해도 자바스크립트가 자바랑 연관이 깊은 줄 알았는데, 이제 아니라는 걸 알 정도입니다. 엄청난 성장이죠?</p>
 <br />
 
 ## 💻 Tech Stacks
@@ -28,5 +29,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh2624&layout=compact)
 
 ## ⚙️ Algorithm
-<!-- 솔브닥 프로필 -->
+<p>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+<!-- 백준 프로필 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sh2624)](https://solved.ac/sh2624)
