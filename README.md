@@ -5,8 +5,9 @@
 
 <!-- 소개글 -->
 <p align="center">
-  🤔 프론트엔드가 뭐예요? <b>(진짜 모름)</b>
+  <b>🤔 프론트엔드가 뭐예요? (진짜모름)</b>
 </p>
+<br />
 
 ## 💻 Tech Stacks
 <p>
@@ -24,8 +25,7 @@
 
 <!-- 깃허브 스탯 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh2624&show_icons=true&theme=transparent)
-
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh2624&layout=compact)
 
 ## ⚙️ Algorithm
 <!-- 솔브닥 프로필 -->
