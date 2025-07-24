@@ -40,4 +40,6 @@
 </p>
 
 <!-- 백준 프로필 -->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=sh2624)](https://solved.ac/sh2624)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2624)](https://solved.ac/sh2624)
+<img src="http://mazandi.herokuapp.com/api?handle=sh2624&theme=warm"/>
+
