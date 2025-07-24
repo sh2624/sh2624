@@ -30,8 +30,8 @@
 
 ## 📂 Projects
 <b>[2025]</b>
-* 키워드 소개팅 서비스 <a href="https://github.com/LikeLion-INU/Festival_13th_Frontend"><너 나랑 통했네></a> - FE 담당
-* 대학생활 코디네이터 <a href="https://github.com/LikeLion13th-mini-Hackathon/frontend"><척척학사></a> - 기획, FE 담당
+* [웹앱] 키워드 소개팅 서비스 <a href="https://github.com/LikeLion-INU/Festival_13th_Frontend"><너 나랑 통했네></a>
+* [웹앱] 대학생활 코디네이터 <a href="https://github.com/LikeLion13th-mini-Hackathon/frontend"><척척학사></a>
 
 ## ⚙️ Algorithm
 <p>
