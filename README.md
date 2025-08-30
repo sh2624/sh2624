@@ -5,9 +5,7 @@
 
 <!-- 소개글 -->
 <h3>🤔 프론트엔드가 뭐예요? (진짜모름)</h3>
-<p>인천대학교 영어영문학과 3학년 임상현입니다. 컴퓨터공학부 복수전공과 멋쟁이사자처럼 13기 활동을 시작으로 아아아주 천천히 성장 중입니다. 
-  <br />
-  올해 초까지만 해도 자바스크립트가 자바랑 연관이 깊은 줄 알았는데, 이제 아니라는 걸 알 정도입니다. 엄청난 성장이죠.</p>
+<p>인천대학교 영어영문학과 3학년 임상현입니다. 컴퓨터공학부 복수전공과 멋쟁이사자처럼 13기 활동을 시작으로 아아아주 천천히 성장 중입니다.
 <br />
 
 ## 💻 Tech Stacks
@@ -32,6 +30,9 @@
 <b>[2025]</b>
 * [웹앱] 키워드 소개팅 서비스 <a href="https://github.com/LikeLion-INU/Festival_13th_Frontend"><너 나랑 통했네></a>
 * [웹앱] 대학생활 코디네이터 <a href="https://github.com/LikeLion13th-mini-Hackathon/frontend"><척척학사></a>
+* [웹앱] AI 지역 맞춤미션 챌린지 <a href="https://github.com/LikeLion13th-Hackathon/frontend"><미션픽></a>
+
+https://github.com/LikeLion13th-Hackathon/frontend
 
 ## ⚙️ Algorithm
 <p>
