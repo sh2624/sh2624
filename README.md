@@ -32,8 +32,6 @@
 * [웹앱] 대학생활 코디네이터 <a href="https://github.com/LikeLion13th-mini-Hackathon/frontend"><척척학사></a>
 * [웹앱] AI 지역 맞춤미션 챌린지 <a href="https://github.com/LikeLion13th-Hackathon/frontend"><미션픽></a>
 
-https://github.com/LikeLion13th-Hackathon/frontend
-
 ## ⚙️ Algorithm
 <p>
   <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
