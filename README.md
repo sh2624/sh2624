@@ -4,9 +4,6 @@
 </p>
 
 <!-- 소개글 -->
-<h3>🤔 프론트엔드가 뭐예요? (진짜모름)</h3>
-<p>인천대학교 영어영문학과 3학년 임상현입니다. 컴퓨터공학부 복수전공과 멋쟁이사자처럼 13기 활동을 시작으로 아아아주 천천히 성장 중입니다.
-<br />
 
 ## 💻 Tech Stacks
 <p>
@@ -40,5 +37,4 @@
 
 <!-- 백준 프로필 -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2624)](https://solved.ac/sh2624)
-<img src="http://mazandi.herokuapp.com/api?handle=sh2624&theme=warm"/>
 
