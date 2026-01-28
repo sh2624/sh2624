@@ -4,7 +4,17 @@
 </p>
 
 <!-- 소개글 -->
+## 👋 Profile
+### 임상현 | Frontend
 
+> <b>2021~</b> 인천대학교 영어영문학과<br />
+<b>2024~</b> 인천대학교 컴퓨터공학부 복수전공<br />
+<b>2025</b> 멋쟁이사자처럼 인천대학교 13기 부원<br />
+<b>2026~</b> 멋쟁이사자처럼 인천대학교 14기 회장<br />
+
+<br />
+
+<!-- 스택 -->
 ## 💻 Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
