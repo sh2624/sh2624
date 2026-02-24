@@ -12,7 +12,7 @@
 <b>2025</b> 멋쟁이사자처럼 인천대학교 13기 부원<br />
 <b>2026~</b> 멋쟁이사자처럼 인천대학교 14기 회장<br />
 
-<br />
+---
 
 <!-- 스택 -->
 ## 💻 Tech Stacks
@@ -33,6 +33,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh2624&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh2624&layout=compact&theme=transparent)
 
+---
+
 ## 📂 Projects
 <b>[2025]</b>
 * [웹앱] 키워드 소개팅 서비스 <a href="https://github.com/LikeLion-INU/Festival_13th_Frontend"><너 나랑 통했네></a>
@@ -41,6 +43,8 @@
 
 <b>[2026]</b>
 * [웹앱] 멋사 인천대학교 대표 페이지 <a href="https://inu-likelion.com"><멋쟁이사자처럼 인천대학교></a>
+
+---
 
 ## ⚙️ Algorithm
 <p>
