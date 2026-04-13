@@ -4,7 +4,7 @@
 
 ## 👋 Profile
 ### 임상현 | Web Frontend
-단순히 기획서대로 코딩하는 코더가 아니라, 기획 전반에 참여하며 **제품의 가치를 고민하는 개발자**가 되고 싶습니다. <br />
+단순히 기획서대로 코딩하는 코더가 아니라, 기획 전반에 참여하며 제품의 가치를 고민하는 개발자가 되고 싶습니다. <br />
 
 > <b>2021~</b> 인천대학교 영어영문학과<br />
 <b>2024~</b> 인천대학교 컴퓨터공학부 복수전공<br />
@@ -51,12 +51,12 @@
 
 ## 📂 Projects
 <b>[2026]</b>
-* [웹앱] 멋쟁이사자처럼 인천대학교 대표 페이지 | [서비스 바로가기](https://inu-likelion.com)
+* [웹앱] 멋쟁이사자처럼 인천대학교 대표 페이지 - [멋쟁이사자처럼 인천대학교](https://github.com/sh2624/likelion-inu-web)
 
 <b>[2025]</b>
-* [웹앱] AI 지역 맞춤미션 챌린지 - [미션픽](https://github.com/LikeLion13th-Hackathon/frontend)
-* [웹앱] 대학생활 코디네이터 - [척척학사](https://github.com/LikeLion13th-mini-Hackathon/frontend)
-* [웹앱] 키워드 소개팅 서비스 - [너 나랑 통했네](https://github.com/LikeLion-INU/Festival_13th_Frontend)
+* [웹앱] AI 지역 맞춤미션 챌린지 서비스 - [미션픽](https://github.com/sh2624/13th-hakathon-frontend)
+* [웹앱] 나만의 대학생활 플래너 - [척척학사](https://github.com/sh2624/13th-mini-hakathon-frontend)
+* [웹앱] 키워드 매칭 서비스 - [너 나랑 통했네](https://github.com/sh2624/13th-keyword-meeting-frontend)
 
 ---
 
