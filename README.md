@@ -72,3 +72,7 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2624" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
