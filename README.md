@@ -4,44 +4,29 @@
 
 ## 👋 Profile
 ### 임상현 | Web Frontend
-> <b>2021~</b> 인천대학교 영어영문학과<br />
-<b>2024~</b> 인천대학교 컴퓨터공학부 복수전공<br />
+> <b>2021-</b> 인천대학교 영어영문학과<br />
+<b>2024-</b> 인천대학교 컴퓨터공학부 복수전공<br />
 <b>2025</b> 멋쟁이사자처럼 인천대학교 13기 부원<br />
-<b>2026~</b> 멋쟁이사자처럼 인천대학교 14기 회장<br />
+<b>2026-</b> 멋쟁이사자처럼 인천대학교 14기 회장<br />
 
 ---
 
-## 💻 Tech Stacks
+## 💻 Skills
 
-### ⚙️ Languages
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+### ⚙️ Language
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts)](https://skillicons.dev)
 
-### ⚛️ Frontend Framework
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-</p>
+### ⚛️ Library & Framework
+[![My Skills](https://skillicons.dev/icons?i=react,styledcomponents,tailwind,vite,nextjs,supabase)](https://skillicons.dev)
 
-### 🚀 Deployment & Tools
-<p>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-</p>
+### 🚀 Tool & Deployment 
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,vercel)](https://skillicons.dev)
 
 ---
 
 ## 📊 Statistics
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh2624&theme=dracula&show_icons=true" />
-  <br />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh2624&show_icons=true" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sh2624&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
@@ -59,18 +44,7 @@
 ---
 
 ## ⚙️ Algorithm
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Programmers-000000?style=flat-square&logo=programmers&logoColor=white"/>
-</p>
 
-<p align="left">
-  <!-- <a href="https://solved.ac/sh2624">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2624" />
-  </a> -->
-  공사중..
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
