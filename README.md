@@ -1,3 +1,4 @@
+<!------헤더------->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sanghyun's+GitHub&fontSize=40&fontAlignY=40" />
 </p>
@@ -12,7 +13,6 @@
 ---
 
 ## 💻 Skills
-
 ### ⚙️ Language
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts)](https://skillicons.dev)
 
@@ -32,6 +32,7 @@
 
 ---
 
+<!------
 ## 📂 Projects
 <b>[2026]</b>
 * [Web] 멋쟁이사자처럼 인천대학교 대표 페이지 - [멋쟁이사자처럼 인천대학교](https://github.com/sh2624/likelion-inu-web)
@@ -42,10 +43,14 @@
 * [Web] 키워드 매칭 서비스 - [너 나랑 통했네](https://github.com/sh2624/13th-keyword-meeting-frontend)
 
 ---
+------->
 
 ## ⚙️ Algorithm
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sh2624/Programmers_Badge_Generator/main/result/result.svg" />
+</p>
 
-
+<!------푸터------->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
