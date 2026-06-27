@@ -26,13 +26,14 @@
 
 ## 📊 Statistics
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh2624&show_icons=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sh2624&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh2624&show_icons=true" height="180" alt="스탯" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sh2624&layout=compact&theme=transparent&hide_border=true" alt="언어" />
 </p>
 
 ---
 
-<!------
+<!--------
 ## 📂 Projects
 <b>[2026]</b>
 * [Web] 멋쟁이사자처럼 인천대학교 대표 페이지 - [멋쟁이사자처럼 인천대학교](https://github.com/sh2624/likelion-inu-web)
@@ -41,13 +42,11 @@
 * [Web] AI 지역 맞춤미션 챌린지 서비스 - [미션픽](https://github.com/sh2624/13th-hakathon-frontend)
 * [Web] 나만의 대학생활 플래너 - [척척학사](https://github.com/sh2624/13th-mini-hakathon-frontend)
 * [Web] 키워드 매칭 서비스 - [너 나랑 통했네](https://github.com/sh2624/13th-keyword-meeting-frontend)
-
----
-------->
+---------->
 
 ## ⚙️ Algorithm
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sh2624/Programmers_Badge_Generator/main/result/result.svg" />
+  <img src="https://raw.githubusercontent.com/sh2624/Programmers_Badge_Generator/main/result/result.svg" height="190" />
 </p>
 
 <!------푸터------->
