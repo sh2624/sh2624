@@ -1,23 +1,23 @@
 <!------헤더------->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sanghyun's+GitHub&fontSize=40&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=200&section=header&text=Sanghyun's+GitHub&fontSize=40&fontAlignY=40" />
 </p>
 
 ## 👋 Profile
 ### 임상현 | Web Frontend
-> <b>2021-</b> 인천대학교 영어영문학과<br />
-<b>2024-</b> 인천대학교 컴퓨터공학부 복수전공<br />
-<b>2025</b> 멋쟁이사자처럼 인천대학교 13기 부원<br />
-<b>2026-</b> 멋쟁이사자처럼 인천대학교 14기 회장<br />
+> 🎓 **Incheon National Univ. (INU)** <br>
+> 💻 Double majored in **Computer Science & English Literature** <br>
+> 🌱 Currently focusing on **React / JavaScript** <br>
+> 🚀 Learning **TypeScript / Next.js / Tailwind CSS** <br>
 
 ---
 
 ## 💻 Skills
 ### ⚙️ Language
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js)](https://skillicons.dev)
 
 ### ⚛️ Library & Framework
-[![My Skills](https://skillicons.dev/icons?i=react,styledcomponents,tailwind,vite,nextjs,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,styledcomponents,vite,supabase)](https://skillicons.dev)
 
 ### 🚀 Tool & Deployment 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,vercel)](https://skillicons.dev)
@@ -53,5 +53,5 @@
 
 <!------푸터------->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=100&section=footer" />
 </p>
