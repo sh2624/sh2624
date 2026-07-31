@@ -46,8 +46,7 @@
 
 ## ⚙️ Algorithm
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2624" height="170" alt="백준 뱃지" />
-  &nbsp;&nbsp;&nbsp;
+  <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2624" height="170" alt="백준 뱃지" /> -->
   <img src="https://raw.githubusercontent.com/sh2624/Programmers_Badge_Generator/main/result/result.svg" height="180" alt="프로그래머스 뱃지" />
 </p>
 
