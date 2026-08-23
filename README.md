@@ -26,9 +26,9 @@
 
 ## 📊 Statistics
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh2624&show_icons=true" height="180" alt="스탯" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sh2624&show_icons=true&include_all_commits=true" height="180" alt="스탯" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sh2624&layout=compact&theme=transparent&hide_border=true" alt="언어" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sh2624&layout=compact&langs_count=4" height="180" alt="언어" />
 </p>
 
 ---
