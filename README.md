@@ -13,14 +13,12 @@
 ---
 
 ## 💻 Skills
-### ⚙️ Language
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js)](https://skillicons.dev)
 
-### ⚛️ Library & Framework
-[![My Skills](https://skillicons.dev/icons?i=react,styledcomponents,vite,supabase)](https://skillicons.dev)
+**Frontend**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" />
 
-### 🚀 Tool & Deployment 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,vercel)](https://skillicons.dev)
+**Tools & Deployment**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 ---
 
@@ -32,17 +30,6 @@
 </p>
 
 ---
-
-<!--------
-## 📂 Projects
-<b>[2026]</b>
-* [Web] 멋쟁이사자처럼 인천대학교 대표 페이지 - [멋쟁이사자처럼 인천대학교](https://github.com/sh2624/likelion-inu-web)
-
-<b>[2025]</b>
-* [Web] AI 지역 맞춤미션 챌린지 서비스 - [미션픽](https://github.com/sh2624/13th-hakathon-frontend)
-* [Web] 나만의 대학생활 플래너 - [척척학사](https://github.com/sh2624/13th-mini-hakathon-frontend)
-* [Web] 키워드 매칭 서비스 - [너 나랑 통했네](https://github.com/sh2624/13th-keyword-meeting-frontend)
----------->
 
 ## ⚙️ Algorithm
 <p align="center">
