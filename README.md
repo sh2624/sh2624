@@ -29,8 +29,6 @@
   <img src="https://raw.githubusercontent.com/sh2624/Programmers_Badge_Generator/main/result/result.svg" height="150" alt="프로그래머스 뱃지" />
 </p>
 
----
-
 <!------푸터------->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=100&section=footer" />
