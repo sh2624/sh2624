@@ -24,9 +24,9 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sh2624&show_icons=true&include_all_commits=true" height="180" alt="스탯" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sh2624&show_icons=true&include_all_commits=true" height="150" alt="스탯" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/sh2624/Programmers_Badge_Generator/main/result/result.svg" height="180" alt="프로그래머스 뱃지" />
+  <img src="https://raw.githubusercontent.com/sh2624/Programmers_Badge_Generator/main/result/result.svg" height="150" alt="프로그래머스 뱃지" />
 </p>
 
 ---
