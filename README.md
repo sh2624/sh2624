@@ -8,7 +8,7 @@
 사용자 경험을 고민하고, 화면이 동작하는 원리까지 탐구합니다.
 
 > 🎓 **Incheon National University (INU)** <br>
-> 📚 Double major in **Computer Science and English Literature** <br>
+> 📚 Double major in **Computer Science & English Literature** <br>
 > 💻 Building with **React / TypeScript / Tailwind CSS** <br>
 > 🔍 Exploring **React rendering / Browser internals / Web performance**
 
