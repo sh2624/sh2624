@@ -1,11 +1,11 @@
 <!------헤더------->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=200&section=header&text=Sanghyun's+GitHub&fontSize=40&fontAlignY=40" />
-</p>
+</p> -->
 
 ## 👋 Profile
-### 임상현 | Frontend
-사용자 경험을 고민하고, 화면이 동작하는 원리까지 탐구합니다.
+### 임상현 | Web Frontend
+사용자 경험을 고민하고, 화면이 동작하는 원리를 탐구합니다.
 
 > 🎓 **Incheon National University (INU)** <br>
 > 📚 Double major in **Computer Science & English Literature** <br>
@@ -31,6 +31,6 @@
 </p>
 
 <!------푸터------->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d8ff&height=100&section=footer" />
-</p>
+</p> -->
